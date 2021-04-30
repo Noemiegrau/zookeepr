@@ -21,9 +21,6 @@ Project is created using:
 * TDD (jest tests)//////
 
 ## **_Usage_**
-
--->
-
 Final app should look something like this:
 
 ![Screen Shot 2021-04-29 at 2 48 26 PM](https://user-images.githubusercontent.com/78329298/116622704-f96e2380-a8f9-11eb-8fab-055e1b50c4c1.png)
