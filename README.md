@@ -26,7 +26,7 @@ Project is created using:
 
 Final app should look something like this:
 
-![Screen Shot 2021-04-26 at 6 58 53 PM](https://user-images.githubusercontent.com/78329298/116173464-7c586980-a6c1-11eb-9edb-cff64f48d11f.png)
+![Screen Shot 2021-04-29 at 2 48 26 PM](https://user-images.githubusercontent.com/78329298/116622704-f96e2380-a8f9-11eb-8fab-055e1b50c4c1.png)
 
 ## **_Installation_**
 Here are some guidelines for installing the project on your local machine in order to be able to try it: 
