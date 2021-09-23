@@ -8,7 +8,7 @@
 * [Link URL to GitHub Repository](#link-URL-to-GitHub-repository)
 
 ## **_Description of the project_**
-////////This project is a ... using Nodejs, OOP and TDD (Jest)./////////
+This project is a zoo's online catalog listing all animals and zookepers. Users can access the data from different locations and browsers without needing to download it to their device.
 
 ## **_Technologies used_**
 Project is created using:
@@ -17,8 +17,8 @@ Project is created using:
 * JavaScript
 * Nodejs
 * Expressjs
-///////* OOP
-* TDD (jest tests)//////
+* OOP
+* TDD (jest tests)
 
 ## **_Usage_**
 Final app should look something like this:
@@ -32,13 +32,13 @@ Here are some guidelines for installing the project on your local machine in ord
 
 2. Then, make sure that your repo includes a package.json with the required dependencies. You can create one by running ```npm init``` in your command line.
 
-3. Make sure to download Express.js by entering "npm install express" in your terminal in the root directory of the project after downloading it onto your local machine. Learn more about this on [npm documentation.](https://www.npmjs.com/package/express).
+3. Run ```npm i``` or ```npm install``` in order to download all the dependencies. Make sure to also download Inquirer.js by entering ```npm install inquirer``` in your terminal in the root directory of the project. Learn more about this package on [npm documentation.](https://www.npmjs.com/package/inquirer)
 
-4. Run ```node server.js``` or ```node server``` in your terminal to launch the application, //////then what happens ?//////
+4. Run ```node server.js``` or ```node server``` in your terminal to launch the application, the first question will appear in your terminal.
 
-5. //////To make sure the Jest tests work, run ```npm run test``` and inspect what the CLI returns.//////
+5. To make sure the Jest tests work, run ```npm run test``` and inspect what the CLI returns.
 
-6. Enjoy and don't hesitate to contribute!
+6. Enjoy and don't hesitate to contribute! 🙂
 
 ## **_Link URL to GitHub Repository_**
 https://github.com/Noemiegrau/zookeepr
